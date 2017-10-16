@@ -1,4 +1,4 @@
-# cmsc320finalproject
+# Kinsey Smith's CMSC320 Final Project
 # Work in progress. Come back later for more! 
 
 This is my final project for CMSC320. 
